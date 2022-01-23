@@ -1,5 +1,5 @@
-This is a Extension for Chrome which blocks social media website and
-helps you from distracting while working on some serious project.
+This is an **Extension** for Chrome which blocks social media websites and
+keeps you away from distractions while working on some serious project.
 
 Currently it affects the following websites =>
 1) Youtube
@@ -7,7 +7,7 @@ Currently it affects the following websites =>
 3) Instagram
 4) Facebook
 
-Understading of JavaScript DOM is must for the code.
+Understanding of JavaScript DOM is must for the code.
 
 HTML error Page Credits - https://codepen.io/sqfreakz/pen/GJRJOY
 
